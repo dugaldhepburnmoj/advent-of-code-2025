@@ -10,4 +10,5 @@ dependencies = []
 dev = [
     "ipykernel>=7.1.0",
     "pip>=25.3",
+    "ruff>=0.14.7",
 ]
